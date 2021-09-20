@@ -7,4 +7,5 @@ Asus B85M-G+i7-4790基于OpenCore的EFI<br>
 21-7-29 基于OC0.7.1构建
 
 21-9-20 更新至OC0.7.3-RELEASE版本，并且更新的对应的驱动及补丁 
-此仓库跟随[OpenCore](https://github.com/acidanthera/OpenCorePkg)采用[BSD-3-Clause License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt) 
+
+  <br>此仓库跟随[OpenCore](https://github.com/acidanthera/OpenCorePkg)采用[BSD-3-Clause License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt) 
